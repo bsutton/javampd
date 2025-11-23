@@ -46,7 +46,7 @@
         <url>http://bjj.is-a-player.com:8080</url>
     </ciManagement>
     <properties>
-        <logback.version>1.1.1</logback.version>
+        <logback.version>1.2.13</logback.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <coverage.reports.dir>${basedir}/target/coverage-reports</coverage.reports.dir>
@@ -270,7 +270,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.11</version>
+            <version>4.13.1</version>
             <scope>test</scope>
         </dependency>
         <dependency>
